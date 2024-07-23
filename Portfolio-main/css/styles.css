@@ -1,0 +1,47 @@
+.navbar{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .9rem;
+    letter-spacing: .09rem;
+    background-color:#caa451;
+}
+.navbar-nav li{
+    padding-right: .7rem;
+}
+
+
+.nav-cl{
+    color: rgb(162, 230, 230);
+    
+}
+
+.footer1{
+    background:#8bee8a;
+}
+
+a{
+    display: block;
+    padding: 0 28px;
+    color: rgb(218, 159, 159);
+    text-decoration: none;
+}
+a:hover,.active a{
+    background-color: #92d6ed;
+}
+.learn{
+    
+    background-color:#cf73d3;
+
+}
+.color-hero{
+    
+    background-color:#a65b80;
+
+}
+.color-git{
+    
+    background-color:#b2d58a;
+
+}
+
+
